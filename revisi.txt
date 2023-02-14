@@ -1,0 +1,20 @@
+halaman admin
+
+1. dashboard
+2. kelola data master
+	-guru
+		+mata pelajaran
+	-siswa
+		+kelas
+	-kelas
+	-mata pelajaran
+	-jurusan
+		+ipa
+		+ips
+	-jenjang (dihapus)
+	-jadwal 
+		+jadwal per kelas
+
+3. kelola user
+4. tentang aplikasi
+	
